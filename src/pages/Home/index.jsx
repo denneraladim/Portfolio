@@ -1,5 +1,6 @@
 import {Header} from '../../components/Header'
 import {Footer} from '../../components/Footer'
+import { Link } from 'react-router-dom'
 
 export const Home = () => {
     return (
@@ -15,9 +16,9 @@ export const Home = () => {
             <br />
             Front End
           </p>
-          <button className='btn btn-red'>
+          <Link to='/sobre' className='btn btn-red'>
           Saiba Mais
-        </button>
+        </Link>
         </div>
         <figure>
           <img
