@@ -23,6 +23,6 @@ Essa aplicação foi desenvolvida durante o Curso de React  utilizando React, Ja
 - [Sas](https://sass-lang.com)
 
 # Funcionalidades:
-- Criado as Pastas components e Pages
-- Criado os arquivos dos componentes e o Css
-- Criado os arquivos das Pages e o CSS
+1. Criado as Pastas components e Pages
+1.  Criado os arquivos dos componentes e o Css
+1.  Criado os arquivos das Pages e o CSS
