@@ -24,6 +24,7 @@ Essa aplicação foi desenvolvida durante o Curso de React do professor Edson Ma
 
 # Dependencias Utilizadas:
      npm install Sass
+     npm install react-router-dom
      
 
 # Funcionalidades:
@@ -34,6 +35,6 @@ Essa aplicação foi desenvolvida durante o Curso de React do professor Edson Ma
 1. Criado o arquivo Routes para gerenciar as rotas das páginas
 1. Criado o arquivo  _colors.scss dass cores do Projeto
 1. Criado as Funções com Arrow Function
-1. Inserido a Fonte do Google Font Fira Code 
+1. Inserido a Fonte do Google Font Fira Code
 
 
