@@ -36,7 +36,7 @@ Essa aplicação foi desenvolvida durante o Curso de React do professor Edson Ma
 1. Criado o arquivo  _colors.scss das cores do Projeto
 1. Criado as Funções com Arrow Function
 1. Inserido a Fonte do Google Font Fira Code
-1. Dentro do componente Container para passar os filhos utiliza a Props Children
+1. Dentro do componente Container passa os filhos que se utiliza a Props Children
 
 
 
