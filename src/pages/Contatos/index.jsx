@@ -1,5 +1,12 @@
+import {Header} from '../../components/Header'
+import {Footer} from '../../components/Footer'
+
 export const Contatos = () => {
     return (
-        <h1>Contatos</h1>
+       <>
+         <Header />
+         <h1>Contatos</h1>
+         <Footer />
+       </>
     )
 }
