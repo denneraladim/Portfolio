@@ -33,7 +33,7 @@ Essa aplicação foi desenvolvida durante o Curso de React do professor Edson Ma
 1. Criado os arquivos dos componentes e o Css
 1. Criado os arquivos das Pages e o CSS
 1. Criado o arquivo Routes para gerenciar as rotas das páginas
-1. Criado o arquivo  _colors.scss dass cores do Projeto
+1. Criado o arquivo  _colors.scss das cores do Projeto
 1. Criado as Funções com Arrow Function
 1. Inserido a Fonte do Google Font Fira Code
 
