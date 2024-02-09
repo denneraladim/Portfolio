@@ -1,35 +1,40 @@
-import {Header} from '../../components/Header'
-import {Footer} from '../../components/Footer'
+import { Header } from '../../components/Header'
+import { Footer } from '../../components/Footer'
 import { Link } from 'react-router-dom'
+import { Container } from '../../components/Container'
+
+import styles from './Home.module.scss'
 
 export const Home = () => {
-    return (
-        <>
+  return (
+    <>
       <Header />
-      <section className='container'>
-        <div className='apresentacao'>
-          <p>
-            Olá,Sou <br />
-            <span>Denner Aladim</span>
-            <br />
-            Desenvolvedor
-            <br />
-            Front End
-          </p>
-          <Link to='/sobre' className='btn btn-red'>
-          Saiba Mais
-        </Link>
-        </div>
-        <figure>
-          <img
-            src="/developer_blue.svg"
-            alt="Imagem de Home"
-            className='img-home'
-          />
-        </figure>
-      </section>
+      <Container>
+        <section className={styles.home}>
+          <div className={styles.apresentacao}>
+            <p>
+              Olá,Sou <br />
+              <span>Denner Aladim</span>
+              <br />
+              Desenvolvedor
+              <br />
+              Front End
+            </p>
+            <Link to='/sobre' className={`${styles.btn} ${styles.btn_red}`}>
+              Saiba Mais
+            </Link>
+          </div>
+          <figure>
+            <img
+              src="/developer_blue.svg"
+              alt="Imagem de Home"
+              className={styles.img_home}
+            />
+          </figure>
+        </section>
+      </Container>
       <Footer />
 
     </>
-    )
+  )
 }
