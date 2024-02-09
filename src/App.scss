@@ -1,0 +1,53 @@
+@import './colors';
+
+.container {
+    width: 100%;
+   min-height: 90vh;
+
+   display: flex;
+   align-items: center;
+  justify-content: space-around;
+
+  img {
+    height: 500px;
+  }
+
+  p {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 16px;
+
+  }
+
+  span {
+    color: $red;
+   }
+
+   .btn {
+    width: 250px;
+    height: 50px;
+    font-size: 18px;
+    font-weight: bold;
+    border: 0;
+    border-radius: 8px;
+    cursor: pointer;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+
+    
+  }
+
+  .btn-red {
+    background-color: $red;
+    color: $white;
+
+    &:hover {
+       background-color: $primary;
+    }
+ }
+
+ 
+
+}
