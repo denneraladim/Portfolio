@@ -16,7 +16,7 @@ export const Card = ({name, description, html_url}) => {
                    <SiJavascript />
                    <FaReact />
             </div>
-            <Link to={html_url} className={styles.card_botao}>
+            <Link to={html_url} className={styles.card_botao} target='_blank'>
                    <BsArrowRight />
             </Link>
             </div>
