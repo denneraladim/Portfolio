@@ -2,7 +2,7 @@ import styles from './Card.module.scss'
 import { FaCss3Alt, FaHtml5, FaReact } from 'react-icons/fa'
 import { SiJavascript } from 'react-icons/si'
 import { BsArrowRight } from 'react-icons/bs'
-import { Link } from 'react-router-dom'
+
 
 export const Card = ({name, description, html_url}) => {
     return (
@@ -16,9 +16,9 @@ export const Card = ({name, description, html_url}) => {
                    <SiJavascript />
                    <FaReact />
             </div>
-            <Link to={html_url} className={styles.card_botao} target='_blank'>
+            <a href={html_url} target='_blank' rel='noopenner norefferer' className={styles.card_botao}>
                    <BsArrowRight />
-            </Link>
+            </a>
             </div>
         </section>
     )
