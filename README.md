@@ -38,6 +38,10 @@ Essa aplicação foi desenvolvida durante o Curso de React do professor Edson Ma
 1. Criado as Funções com Arrow Function
 1. Inserido a Fonte do Google Font Fira Code
 1. Dentro do componente Container passa os filhos que se utiliza a Props Children
+1. Criado a Rota Alinhada
+1. Criado a Página Base
+
+# Projeto em Andamento
 
 
 
