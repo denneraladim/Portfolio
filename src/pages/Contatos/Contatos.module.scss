@@ -24,3 +24,15 @@
         
     }
 }
+
+@media(max-width: 768px) {
+    .contatos {
+        padding-inline: 20px;
+    }
+}
+
+@media(max-width: 480px) {
+    .icones {
+        gap: 8px;
+    }
+}
