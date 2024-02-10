@@ -1,6 +1,6 @@
 # Portfolio (REACT)
 
-Essa aplicação foi desenvolvida durante o Curso de React do professor Edson Maia do Youtube utilizando React, JavaScript, Sass e API Github.
+Essa aplicação foi desenvolvida durante o Curso de React do professor Edson Maia do Youtube utilizando React, JavaScript, Sass, API Github e Responsividade.
 
 # Como rodar este projeto?
       git clone portfolio
@@ -50,6 +50,7 @@ Essa aplicação foi desenvolvida durante o Curso de React do professor Edson Ma
 1. Criar a Props do Componente Card
 1. Criar o Card Dinâmico
 1. Mapeamento dos repositórios
+1. Responsividade
 
 # Projeto em Andamento
 
