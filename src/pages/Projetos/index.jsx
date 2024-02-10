@@ -20,7 +20,16 @@ export const Projetos = () => {
           {
             repositories.length > 0 ? (
           <section className={styles.lista}>
-             <Card /> 
+              {
+                repositories.map((repo)=> (
+                  <Card
+                   key={repo.id}
+                   name={repo.name}
+                   description={repo.description}
+                   html_url={repo.html_url}
+                  /> 
+                ))
+              }
           </section>
             ): (
               <p>Carregando repositórios...</p>
