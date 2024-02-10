@@ -25,6 +25,7 @@ Essa aplicação foi desenvolvida durante o Curso de React do professor Edson Ma
 # Dependencias Utilizadas:
      npm install Sass
      npm install react-router-dom
+     npm install react-icons
      
 
 # Funcionalidades:
