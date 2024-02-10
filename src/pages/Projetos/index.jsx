@@ -7,7 +7,7 @@ export const Projetos = () => {
   const [repositories, setRepositoires] = useState([])
   useEffect(() => {
       const buscarRepositorios = async () => {
-          const response = await fetch('https://api.github.com/users/denneraladim/repos')
+          const response = await fetch('https://api.github.com/users/denneraladim/repos?page=1&per_page=50')
           const data = await response.json()
           setRepositoires(data)
       }
