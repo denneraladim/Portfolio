@@ -6,7 +6,7 @@
 
    display: flex;
    align-items: center;
-  justify-content: space-around;
+  justify-content: space-evenly;
 
   .img_home {
     height: 500px;
@@ -50,4 +50,23 @@
 
  
 
+}
+
+@media(max-width: 768px) {
+  .home {
+    flex-direction: column;
+  }
+}
+
+@media(max-width: 480px) {
+ .home {
+  p {
+    font-size: 32px;
+  }
+  .img_home {
+    max-width: 100%;
+    height: auto;
+    padding-inline: 40px;
+  }
+ }
 }

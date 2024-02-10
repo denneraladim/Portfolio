@@ -50,7 +50,7 @@ Essa aplicação foi desenvolvida durante o Curso de React do professor Edson Ma
 1. Criar a Props do Componente Card
 1. Criar o Card Dinâmico
 1. Mapeamento dos repositórios
-1. Responsividade
+1. Responsividade de max-width: 768px e max-width: 480px
 
 # Projeto em Andamento
 
