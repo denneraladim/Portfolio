@@ -7,6 +7,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    padding-block: 40px;
 
     .bio {
         display: flex;
@@ -57,3 +58,21 @@
             }
         }
     
+@media(max-width: 768px) {
+    .bio {
+        flex-direction: column;
+        padding-inline: 20px;
+        gap: 16px;
+
+        .foto {
+            max-width: 50%;
+        }
+    }
+}
+
+@media(max-width: 480px) {
+    .icones {
+        gap: 8px;
+    }
+    
+}
