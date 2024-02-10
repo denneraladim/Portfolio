@@ -1,0 +1,56 @@
+@import '../../colors';
+
+.card {
+    width: 300px;
+    height: 300px;
+    background-color: $softWhite;
+    color: $gray;
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px #22222270;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+
+    h3 {
+        color: $primary;
+    }
+
+    p {
+        color: #555;
+    }
+
+    .card_footer {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .card_icones {
+        display: flex;
+        gap: 10px;
+        color: $red;
+        font-size: 24px;
+    }
+
+    .card_botao {
+        width: 40px;
+        height: 40px;
+        border: 0;
+        border-radius: 8px;
+        background-color: $primary;
+        color: $white;
+        font-size: 24px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+
+        &:hover {
+            background-color: $red;
+            transition: all .5s;
+        }
+    }
+}
