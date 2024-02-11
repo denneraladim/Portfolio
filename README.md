@@ -53,6 +53,7 @@ Essa aplicação foi desenvolvida durante o Curso de React do professor Edson Ma
 1. Responsividade de max-width: 768px e max-width: 480px
 1. Criar no Componente Header o MenuButton para o menu sandwich
 1. Controle de Estado do Menu Sandwich
+1. Criar a Alternância do Toogle
 
 # Projeto em Andamento
 
