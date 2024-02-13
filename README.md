@@ -1,6 +1,6 @@
 # Portfolio (REACT)
 
-Essa aplicação foi desenvolvida durante o Curso de React do professor Edson Maia do Youtube utilizando React, JavaScript, Sass, API Github e Responsividade.
+Essa aplicação foi desenvolvida com Dados Reais utilizando React, JavaScript, Sass, API Github e Responsividade.
 
 # Como rodar este projeto?
       git clone portfolio
