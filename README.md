@@ -3,13 +3,13 @@
 Essa aplicação foi desenvolvida com Dados Reais utilizando React, JavaScript, Sass, API Github e Responsividade.
 
 # Como rodar este projeto?
-      git clone portfolio
+      git clone Portfolio
 
  ## Criação do projeto
     npm create vite@latest
 
  ## Acesse a pasta do seu projeto no seu terminal
-    cd portfolio
+    cd Portfolio
 
   ## Execute a aplicação
      npm run dev  
