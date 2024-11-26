@@ -1,9 +1,9 @@
 :root {
   font-family: 'Fira Code', monospace;
 
-  --primary: #16213E;
+  --colorPrimary: #16213E;
   --secondary: #0F3460;
-  --terceary: #533483;
+  --tertiary: #533483;
   --red: #E94560;
   --softWhite: #f1f1f1;
   --white: #fefefe;

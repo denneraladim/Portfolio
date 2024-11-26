@@ -35,9 +35,11 @@ Essa aplicação foi desenvolvida com Dados Reais utilizando React, JavaScript, 
 # Funcionalidades:
 
 1. Criar as Pastas Componentes e Pages
-2. Criar os seguintes componentes: Header, Footer e Container
-3. Criar as estilização dos componentes
-4. Criar as Funções com Arrow Functions
+2. Criado as variáveis das cores no arquivo index.css
+3. Criar os seguintes componentes: Header, Footer e Container
+4. Criar as estilização dos componentes
+5. Criar as Funções com Arrow Functions
+
 
 
 # Fonte Utilizado:
