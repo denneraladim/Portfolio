@@ -29,6 +29,12 @@ Essa aplicação foi desenvolvida com Dados Reais utilizando React, JavaScript, 
 - [React-Router-Dom](https://reactrouter.com/)
 
 
+# Fonte Utilizado:
+
+1. https://fonts.google.com/specimen/Fira+Code
+
+
+
 # Funcionalidades:
 
 1. Criar as Pastas Componentes e Pages
@@ -44,6 +50,8 @@ Essa aplicação foi desenvolvida com Dados Reais utilizando React, JavaScript, 
 10. Criar as rotas
 11. Substituir a ancora do componente Header por Link do React Router Dom
 12. Utilização da props children dentro do componente container
+13. Instalado o React Icons no projeto
+14. Inserido o Icone do github e o linkedin
 
 
 
@@ -59,9 +67,10 @@ Essa aplicação foi desenvolvida com Dados Reais utilizando React, JavaScript, 
 5. Element: Qual é o meu elemento
 
 
-# Fonte Utilizado:
+# Instalação do React Icons:
+    npm install react-icons --save
 
-1. https://fonts.google.com/specimen/Fira+Code
+
 
 
 # Projeto Em Andamento
