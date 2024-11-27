@@ -26,7 +26,7 @@ Essa aplicação foi desenvolvida com Dados Reais utilizando React, JavaScript, 
 
 - [vite](https://vitejs.dev/)
 - [React](https://react.dev/)
--[React-Router-Dom](https://reactrouter.com/)
+- [React-Router-Dom](https://reactrouter.com/)
 
 
 # Funcionalidades:
