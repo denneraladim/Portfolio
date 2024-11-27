@@ -40,6 +40,9 @@ Essa aplicação foi desenvolvida com Dados Reais utilizando React, JavaScript, 
 7. Criar as Páginas Home, Sobre, Projetos e Contatos
 8. Instalar o React Router Dom
 8. Criar as Rotas das Páginas 
+9. Criar um arquivo routes.jsx
+10. Criar as rotas
+
 
 
 # Dependências Utilizadas:
@@ -48,7 +51,11 @@ Essa aplicação foi desenvolvida com Dados Reais utilizando React, JavaScript, 
 
 
 # Gestor de Rotas:
-
+1. BrowserRouter
+2. Routes : Dentro do BrowserRouter
+3. Route: Criar cada uma das rotas
+4. Path: Caminho (dentro do route)
+5. Element: Qual é o meu elemento
 
 
 
