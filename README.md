@@ -37,16 +37,17 @@ Essa aplicação foi desenvolvida com Dados Reais utilizando React, JavaScript, 
 4. Criar as estilização dos componentes
 5. Criado a página Home
 6. Inserido a imagem na pasta public
-7. Criar as Páginas Home, Sobre, Projetos e Contatos
+7. Criar as Páginas Home, Sobre, Projetos, Contatos e 404
 8. Instalar o React Router Dom
 8. Criar as Rotas das Páginas 
 9. Criar um arquivo routes.jsx
 10. Criar as rotas
 11. Substituir a ancora do componente Header por Link do React Router Dom
+12. Utilização da props children dentro do componente container
 
 
 
-# Dependências Utilizadas:
+# Instalação do React Router Dom:
     npm i react-router-dom
 
 
