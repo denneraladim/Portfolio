@@ -3,6 +3,7 @@ import Home from './Pages/Home'
 import Sobre from './Pages/Sobre'
 import Projetos from './Pages/Projetos'
 import Contatos from './Pages/Contatos'
+import Page404 from './Pages/Page404'
 
 function AppRoutes(){
     return (
@@ -12,6 +13,7 @@ function AppRoutes(){
             <Route path='/sobre' element={<Sobre />}></Route>
             <Route path='/projetos' element={<Projetos />}></Route>
             <Route path='/contatos' element={<Contatos />}></Route>
+            <Route path='*' element={<Page404 />}></Route>
           </Routes>
         </BrowserRouter>
     )
