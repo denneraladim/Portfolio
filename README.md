@@ -46,8 +46,7 @@ Essa aplicação foi desenvolvida com Dados Reais utilizando React, JavaScript, 
 
 
 # Dependências Utilizadas:
-
-1.  npm i react-router-dom
+    npm i react-router-dom
 
 
 # Gestor de Rotas:
