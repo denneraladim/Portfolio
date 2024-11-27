@@ -1,6 +1,6 @@
 import styles from './Header.module.css'
 
-export const Header = () => {
+function Header() {
     return (
         <header className={styles.header}>
             <span>dennerAladim.dev</span>
@@ -13,3 +13,5 @@ export const Header = () => {
         </header>
     )
 }
+
+export default Header;
