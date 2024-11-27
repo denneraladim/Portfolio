@@ -21,9 +21,11 @@ function Contatos(){
                   <FaGithub  className={styles.icone}/>
               </a>
                
-              <a href='https://www.linkedin.com/in/denner-dangelo-aladim-de-castro/' target='_blank' rel='noopener noreferrer'>
+              <a href='https://www.linkedin.com/in/Denner-Dangelo-Aladim-de-castro/' target='_blank' rel='noopener noreferrer'>
                   <FaLinkedin className={styles.icone} />
               </a>
+              
+              
                 
 
               </div>
