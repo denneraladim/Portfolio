@@ -52,6 +52,7 @@ Essa aplicação foi desenvolvida com Dados Reais utilizando React, JavaScript, 
 12. Utilização da props children dentro do componente container
 13. Instalado o React Icons no projeto
 14. Inserido o Icone do github e o linkedin
+15. Criar a página base para evitar repetição
 
 
 
