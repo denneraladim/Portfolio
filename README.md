@@ -38,7 +38,7 @@ Essa aplicação foi desenvolvida com Dados Reais utilizando React, JavaScript, 
 2. Criado as variáveis das cores no arquivo index.css
 3. Criar os seguintes componentes: Header, Footer e Container
 4. Criar as estilização dos componentes
-5. Criado a página home provissória na App.jsx
+5. Criado a página Home
 6. Inserido a imagem na pasta public
 7. Criar as Páginas Home, Sobre, Projetos e Contatos
 8. Criar as Rotas das Páginas 
