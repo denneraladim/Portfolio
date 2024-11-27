@@ -1,6 +1,6 @@
 # Portfolio  (REACT)
 
-Essa aplicação foi desenvolvida com Dados Reais utilizando React, JavaScript, CSS  e Responsividade.
+Essa aplicação foi desenvolvida com Dados Reais utilizando React, JavaScript, CSS, React Router Dom  e Responsividade.
 
 # Como rodar este projeto?
 
@@ -42,6 +42,7 @@ Essa aplicação foi desenvolvida com Dados Reais utilizando React, JavaScript, 
 8. Criar as Rotas das Páginas 
 9. Criar um arquivo routes.jsx
 10. Criar as rotas
+11. Substituir a ancora do componente Header por Link do React Router Dom
 
 
 
@@ -55,10 +56,6 @@ Essa aplicação foi desenvolvida com Dados Reais utilizando React, JavaScript, 
 3. Route: Criar cada uma das rotas
 4. Path: Caminho (dentro do route)
 5. Element: Qual é o meu elemento
-
-
-
-
 
 
 # Fonte Utilizado:

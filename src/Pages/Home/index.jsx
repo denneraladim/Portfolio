@@ -1,5 +1,6 @@
 import Header from '../../Components/Header'
 import Footer from '../../Components/Footer'
+import { Link } from 'react-router-dom';
 
 
 function Home() {
@@ -13,9 +14,9 @@ function Home() {
                         <span>Denner Aladim</span><br />
                         Dev Front End
                     </p>
-                    <button className='btn btn-red'>
+                    <Link to='/sobre' className='btn btn-red'>
                         Saiba mais
-                    </button>
+                    </Link>
                 </div>
                 <figure>
                     <img className='img-home' src="/developer_blue.svg" alt="Imagem da Home" />
