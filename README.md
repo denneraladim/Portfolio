@@ -26,11 +26,8 @@ Essa aplicação foi desenvolvida com Dados Reais utilizando React, JavaScript, 
 
 - [vite](https://vitejs.dev/)
 - [React](https://react.dev/)
+-[React-Router-Dom](https://reactrouter.com/)
 
-
-# Dependencias Utilizadas:
-    
-     
 
 # Funcionalidades:
 
@@ -41,7 +38,19 @@ Essa aplicação foi desenvolvida com Dados Reais utilizando React, JavaScript, 
 5. Criado a página Home
 6. Inserido a imagem na pasta public
 7. Criar as Páginas Home, Sobre, Projetos e Contatos
+8. Instalar o React Router Dom
 8. Criar as Rotas das Páginas 
+
+
+# Dependências Utilizadas:
+
+1.  npm i react-router-dom
+
+
+# Gestor de Rotas:
+
+
+
 
 
 
