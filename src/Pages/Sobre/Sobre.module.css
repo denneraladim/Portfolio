@@ -1,0 +1,55 @@
+
+.sobre {
+    width: 100%;
+    min-height: 85vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.bio {
+    display: flex;
+    align-items: center;
+    gap: 48px;
+    margin-bottom: 24px;
+}
+
+.bio span {
+    color: var(--red);
+    font-weight: bold;
+}
+
+.bio strong {
+    color: var(--secondary);
+    font-weight: bold;
+}
+
+.textos h2, p {
+    margin-bottom: 16px;
+}
+
+.Foto {
+    width: 250px;
+    height: 250px;
+}
+
+.techs {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+}
+
+.icones {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.icone {
+    font-size: 60px;
+    color: var(--secondary);
+}
