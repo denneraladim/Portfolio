@@ -54,6 +54,7 @@ Essa aplicação foi desenvolvida com Dados Reais utilizando React, JavaScript, 
 14. Inserido o Icone do github e o linkedin
 15. Criar a página base para evitar repetição
 16. Inserido icones na pagina Sobre
+17. Criar o componente Card 
 
 
 
