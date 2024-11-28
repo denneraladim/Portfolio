@@ -4,24 +4,21 @@ import Sobre from './Pages/Sobre'
 import Projetos from './Pages/Projetos'
 import Contatos from './Pages/Contatos'
 import Page404 from './Pages/Page404'
-import Header from './Components/Header'
-import Container from './Components/Container'
-import Footer from './Components/Footer'
+import PageBase from './Pages/PageBase'
 
 function AppRoutes(){
     return (
         <BrowserRouter>
-        <Header />
-        <Container>
-            <Routes>
-              <Route path='/' element={<Home />}></Route>
-              <Route path='/sobre' element={<Sobre />}></Route>
-              <Route path='/projetos' element={<Projetos />}></Route>
-              <Route path='/contatos' element={<Contatos />}></Route>
-              <Route path='*' element={<Page404 />}></Route>
-            </Routes>
-          </Container>
-          <Footer />
+        <Routes>
+            <Route path='/'element={<PageBase/>}>
+                <Route index element={<Home />}></Route>
+                <Route path='/sobre' element={<Sobre />}></Route>
+                <Route path='/projetos' element={<Projetos />}></Route>
+                <Route path='/contatos' element={<Contatos />}></Route>
+                <Route path='*' element={<Page404 />}></Route>
+            </Route>
+        </Routes>
+         
         </BrowserRouter>
     )
 }
