@@ -1,4 +1,6 @@
+import { FaCss3Alt, FaHtml5, FaJs, FaReact } from 'react-icons/fa';
 import styles from './Card.module.css'
+
 
 function Card(){
     return (
@@ -7,11 +9,14 @@ function Card(){
             <p>Texto descritivo do projeto.</p>
             <div className={styles.card_footer}>
                 <div className={styles.card_icones}>
-                    html
+                    <FaHtml5 />
+                    <FaCss3Alt />
+                    <FaJs />
+                    <FaReact />
                 </div>
-                <button className={styles.card_botao}>
-                    Seta
-                </button>
+            <button className={styles.card_botao}>
+                Ver Projeto
+            </button>
             </div>
         </section>
     )
