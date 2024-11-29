@@ -6,7 +6,7 @@
 
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 
 .home img {
@@ -47,3 +47,28 @@
 .btn_red:hover {
     background-color: var(--colorPrimary);
 }
+
+@media(max-width: 768px){
+    .home {
+        flex-direction: column;
+        padding-block: 30px;
+        
+    }  
+
+}
+
+@media (max-width: 468px) {
+    .home p {
+        font-size: 32px;
+    }
+
+    .home img {
+        max-width: 100%;
+        height: auto;
+        padding-inline: 40px;
+    }
+
+   
+}
+
+

@@ -56,7 +56,8 @@ Essa aplicação foi desenvolvida com Dados Reais utilizando React, JavaScript, 
 16. Inserido icones na pagina Sobre
 17. Criar o componente Card 
 18. Criar o Evento do botão do card
-19. Clicando no botão ver projeto e codigo ele abre em uma nova aba.
+19. Clicando no botão ver projeto e codigo ele abre em uma nova aba
+20. Criar a Responsividade
 
 
 
