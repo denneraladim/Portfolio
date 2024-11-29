@@ -13,6 +13,13 @@ function Projetos(){
                url=" https://calculadora-woad-eight.vercel.app/"
                url_github="https://github.com/denneraladim/Calculadora"
                />
+
+               <Card 
+               título="Agência Turismo"
+               Descrição="Este Projeto foi desenvolvido por dados ficticio e utilizando React, JavaScript, Sass e Site Responsivo para tipos desktop, mobile ou tablet."
+               url="https://agencia-turismo-rho.vercel.app/"
+               url_github="https://github.com/denneraladim/AgenciaTurismo"
+               />
               
            </section>
         
