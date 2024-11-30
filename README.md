@@ -77,10 +77,9 @@ Essa aplicação foi desenvolvida com Dados Reais utilizando React, JavaScript, 
 23. Criar o controle com o UseState   
 24. Criar uma função de alternância (Toggle)
 25. Criar a condição ternário
-26. Criar os Testes Unitários usando Jest e Testing Library
 
 
-# Instalação dos Testes Unitário Jest e Testing Library
+
 
 
 
