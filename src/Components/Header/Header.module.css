@@ -56,6 +56,16 @@
 
         .show {
             display: flex;
+            width: 50%;
+            height: auto;
+            position: absolute;
+            top: 50px;
+            right: 0;
+            background-color: var(--colorPrimary);
+            flex-direction: column;
+            padding: 20px;
+            gap: 16px;
+            
         }
         
     
