@@ -73,11 +73,10 @@ Essa aplicação foi desenvolvida com Dados Reais utilizando React, JavaScript, 
 19. Clicando no botão ver projeto e codigo ele abre em uma nova aba
 20. Criar a Responsividade
 21. Criar o Menu Sandwich para telas menores
-
-
-
-
-    
+22. Controle de Estado do Menu Sandwich
+23. Criar o controle com o UseState   
+24. Criar uma função de alternância (Toggle)
+25. Criar a condição ternário
 
 
 
