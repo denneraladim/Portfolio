@@ -34,6 +34,20 @@ Essa aplicação foi desenvolvida com Dados Reais utilizando React, JavaScript, 
 1. https://fonts.google.com/specimen/Fira+Code
 
 
+# Instalação do React Router Dom:
+    npm i react-router-dom
+
+
+# Gestor de Rotas:
+1. BrowserRouter
+2. Routes : Dentro do BrowserRouter
+3. Route: Criar cada uma das rotas
+4. Path: Caminho (dentro do route)
+5. Element: Qual é o meu elemento
+
+
+# Instalação do React Icons:
+    npm install react-icons --save
 
 # Funcionalidades:
 
@@ -58,23 +72,12 @@ Essa aplicação foi desenvolvida com Dados Reais utilizando React, JavaScript, 
 18. Criar o Evento do botão do card
 19. Clicando no botão ver projeto e codigo ele abre em uma nova aba
 20. Criar a Responsividade
+21. Criar o Menu Sandwich para telas menores
 
 
 
-# Instalação do React Router Dom:
-    npm i react-router-dom
 
-
-# Gestor de Rotas:
-1. BrowserRouter
-2. Routes : Dentro do BrowserRouter
-3. Route: Criar cada uma das rotas
-4. Path: Caminho (dentro do route)
-5. Element: Qual é o meu elemento
-
-
-# Instalação do React Icons:
-    npm install react-icons --save
+    
 
 
 
