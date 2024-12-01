@@ -79,11 +79,11 @@ Essa aplicação foi desenvolvida com Dados Reais utilizando React, JavaScript, 
 25. Criar a condição ternário
 26. Criar o Teste Unitário
 27. Instalação do Jest
+28. Criar a Pasta de Teste 
 
 
 
-# Instalação do Jest
-    npm install --save-dev jest
+
 
 # Projeto Em Andamento
 
