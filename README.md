@@ -81,11 +81,8 @@ Essa aplicação foi desenvolvida com Dados Reais utilizando React, JavaScript, 
 27. Instalação do Jest
 28. Criar a Pasta de Teste 
 
+# Projeto Concluido
 
-
-
-
-# Projeto Em Andamento
 
 
 
