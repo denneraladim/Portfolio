@@ -1,5 +1,5 @@
 import Card from "../../Components/Card";
-import styles from './projetos.module.css'
+import styles from './Projetos.module.css'
 
 
 function Projetos(){
