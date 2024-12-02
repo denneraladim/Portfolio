@@ -1,4 +1,4 @@
-import styles from './page404.module.css'
+import styles from './Page404.module.css'
 
 function Page404(){
     return (
