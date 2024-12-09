@@ -1,6 +1,8 @@
 import { FaCss3, FaHtml5, FaJs, FaReact } from 'react-icons/fa';
 import styles from './Sobre.module.css'
 import Foto from './images/denner.png'
+import { SiTypescript } from 'react-icons/si';
+
 
 function Sobre(){
     return (
@@ -22,6 +24,7 @@ function Sobre(){
                     <FaHtml5 className={styles.icone}/>
                     <FaCss3 className={styles.icone}/>
                     <FaJs className={styles.icone}/>
+                    <SiTypescript className={styles.icone} />
                     <FaReact className={styles.icone}/>
                  </div>
            </div>
