@@ -81,6 +81,7 @@ Essa aplicação foi desenvolvida com Dados Reais utilizando React, JavaScript, 
 27. Criar o Card Dinâmico
 
 
+
 # Projeto Concluido
 
 # Link do Projeto
