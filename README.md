@@ -77,6 +77,8 @@ Essa aplicação foi desenvolvida com Dados Reais utilizando React, JavaScript, 
 23. Criar o controle com o UseState   
 24. Criar uma função de alternância (Toggle)
 25. Criar a condição ternário
+26. Crie um arquivo src/data/projetos.js para armazenar os dados
+27. Criar o Card Dinâmico
 
 
 # Projeto Concluido
