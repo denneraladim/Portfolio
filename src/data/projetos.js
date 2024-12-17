@@ -20,6 +20,13 @@ const projetos = [
         descricao: "Este Projeto foi desenvolvido por dados ficticios e utilizando React, TypeScript, CSS.",
         url: "https://formulario-swart-rho.vercel.app/",
         url_github: "https://github.com/denneraladim/Formulario"
+    },
+    {
+        id: 4,
+        titulo: "BuscadorCep",
+        descricao: "Este Projeto foi desenvolvido para consultar Cep. Utilizando tecnologias modernas como React, Styled-components, Requisição HTTP com Axios ",
+        url: "https://buscador-cep-five.vercel.app/", 
+        url_github: "https://github.com/denneraladim/BuscadorCep"
     }
 ];
 
